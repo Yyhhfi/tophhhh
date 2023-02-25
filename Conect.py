@@ -1,1 +1,1 @@
-GhostOn
+close
